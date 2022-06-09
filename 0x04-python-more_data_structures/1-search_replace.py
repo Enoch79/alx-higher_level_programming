@@ -6,4 +6,4 @@
              copy.append(replace)
          else:
              copy.apeend(my_list[i])
-             return copy
+    return copy
